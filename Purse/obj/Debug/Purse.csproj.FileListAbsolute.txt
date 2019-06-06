@@ -1,0 +1,14 @@
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\Purse.exe.config
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\Purse.exe
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\Purse.pdb
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\BuisnesCard.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\CreditCard.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\Money.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\CreditCard.pdb
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\Money.pdb
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\bin\Debug\BuisnesCard.pdb
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\obj\Debug\Purse.csprojAssemblyReference.cache
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\obj\Debug\Purse.csproj.CoreCompileInputs.cache
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\obj\Debug\Purse.csproj.CopyComplete
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\obj\Debug\Purse.exe
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Purse\obj\Debug\Purse.pdb
