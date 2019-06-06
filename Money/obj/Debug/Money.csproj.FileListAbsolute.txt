@@ -1,0 +1,6 @@
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Money\bin\Debug\Money.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Money\bin\Debug\Money.pdb
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Money\obj\Debug\Money.csprojAssemblyReference.cache
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Money\obj\Debug\Money.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\Money\obj\Debug\Money.pdb
