@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BuisnesCard
 {
-    public class BuisnesCard1
+    public class BuisnesCard
     {
         public decimal Balance { get; set; }
 
