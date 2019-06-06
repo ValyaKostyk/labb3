@@ -1,0 +1,6 @@
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\BuisnesCard\bin\Debug\BuisnesCard.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\BuisnesCard\bin\Debug\BuisnesCard.pdb
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\BuisnesCard\obj\Debug\BuisnesCard.csprojAssemblyReference.cache
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\BuisnesCard\obj\Debug\BuisnesCard.csproj.CoreCompileInputs.cache
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\BuisnesCard\obj\Debug\BuisnesCard.dll
+C:\Users\Valya\Downloads\Telegram Desktop\Purse-master\Purse-master\BuisnesCard\obj\Debug\BuisnesCard.pdb
